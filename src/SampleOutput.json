@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Connie Loizos",
+        "title": "Startups see just 1% of DoD spending, says the venture firm backed by billionaire Steve Cohen; it's betting that's about to change | TechCrunch",
+        "description": "Autonomous drone swarms do have the ability to shift the global superpower balance.",
+        "url": "https://techcrunch.com/2023/08/04/startups-see-just-1-of-dod-spending-says-the-venture-firm-backed-by-billionaire-steve-cohen-its-betting-thats-about-to-change/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-04-at-8.55.10-PM.png?resize=1200,704",
+        "publishedAt": "2023-08-05T04:49:54Z",
+        "content": "Dan Gwak has had a more varied life than many investors. He grew up in Jakarta, the son of Korean parents who ran a shipping business. After high school, he headed to Cornell in the U.S., and became … [+8325 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Morgan Sung",
+        "title": "Twitch streamer's PS5 giveaway sparks riot in Union Square | TechCrunch",
+        "description": "A giveaway and meetup hosted by Twitch streamers Kai Cenat and Fanum devolved into a chaotic riot that shut down lower Manhattan.",
+        "url": "https://techcrunch.com/2023/08/04/twitch-streamer-kai-cenat-influencer-giveaway-union-square-riot/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1446807711.jpg?resize=1200,872",
+        "publishedAt": "2023-08-04T22:06:02Z",
+        "content": "Twitch streamers Kai Cenat and Fanum invited fans to Union Square on Friday for a real-life stream and giveaway. They promised to hand out gift cards, gaming PC equipment and PlayStation 5s.\r\nBut the… [+2436 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Aria Alamalhodaei",
+        "title": "Astra lays off 25% of workforce, reallocates engineers, in an effort to fight dwindling cash reserves | TechCrunch",
+        "description": "Astra has laid off 25% of its workforce and is reallocating at least 50 staff away from its launch business to focus on spacecraft production.",
+        "url": "https://techcrunch.com/2023/08/04/astra-lays-off-25-of-workforce-reallocates-engineers-in-an-effort-to-fight-dwindling-cash-reserves/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1241184618.jpg?resize=1200,800",
+        "publishedAt": "2023-08-04T21:51:52Z",
+        "content": "Astra has laid off 25% of its workforce since the beginning of the quarter and is reallocating at least 50 engineers and manufacturing staff away from its launch business to focus on spacecraft produ… [+2120 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Amanda Silberling",
+        "title": "SoftBank sues IRL over 'elaborate scheme' that swallowed $150M | TechCrunch",
+        "description": "SoftBank valued IRL at $1.1 billion. It turns out that 95% of IRL's users weren't real, leaving the firm in a difficult spot.",
+        "url": "https://techcrunch.com/2023/08/04/softbank-sues-irl-over-elaborate-scheme-that-swallowed-150m/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-10105387.jpg?resize=1200,770",
+        "publishedAt": "2023-08-04T21:09:43Z",
+        "content": "SoftBank once invested in social app IRL at a $1.1 billion valuation. Now, the Japanese investment firm is suing the defunct company for fraud, alleging $150 million in damages.\r\nIRL was supposedly p… [+2720 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Harri Weber",
+        "title": "Pony, investor Toyota partner to 'mass produce' robotaxis in China | TechCrunch",
+        "description": "Pony.ai and Toyota team up with around $139 million in capital from GAC Toyota Motor Co. to eventually crank out robotaxis in China.",
+        "url": "https://techcrunch.com/2023/08/04/pony-investor-toyota-partner-to-mass-produce-robotaxis-in-china/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-73963746.jpg?resize=1200,800",
+        "publishedAt": "2023-08-04T21:09:02Z",
+        "content": "Autonomous-driving company Pony.ai and Toyota say they’re teaming up with the goal of one day cranking out a bunch of “fully driverless robotaxis.”\r\nThe two companies intend to kick off their partner… [+1670 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Brian Heater",
+        "title": "Hate your commute? Googlers can sleep on campus at a discount | TechCrunch",
+        "description": "Google is internally advertising a $99 “Summer Special” for its campus hotel to entice employees back into the office.",
+        "url": "https://techcrunch.com/2023/08/04/hate-your-commute-googlers-can-sleep-on-campus-at-a-discount/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/20230510_104639.jpg?resize=1200,900",
+        "publishedAt": "2023-08-04T20:47:51Z",
+        "content": "The pandemic disrupted the office in a fundamental way. Remote work turned from a nice perk to a way of life for many. Its an abrupt change for a tech industry that has a long history of rolling out … [+1188 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Abigail Bassett",
+        "title": "Henrik Fisker: No \"final conclusion\" yet in Foxconn deal | TechCrunch",
+        "description": "Fisker has big ambitions for the PEAR vehicle it plans to build with Foxconn. It turns out that deal hasn't been finalized.",
+        "url": "https://techcrunch.com/2023/08/04/henrik-fisker-no-final-conclusion-yet-in-foxconn-deal/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/fisker-PEAR-abby.jpg?resize=1200,904",
+        "publishedAt": "2023-08-04T20:27:12Z",
+        "content": "Two years ago, EV startup Fisker seemed to have hooked a giant when it announced a deal with Taiwanese iPhone maker Foxconn to build a sub-$30,000 crossover in the United States. It turns out that de… [+6234 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Mary Ann Azevedo",
+        "title": "SEC ends investigation into Better.com, which continues to bleed cash ahead of planned SPAC vote | TechCrunch",
+        "description": "The SEC said it does not intend to recommend an enforcement action against digital mortgage lender Better.com.",
+        "url": "https://techcrunch.com/2023/08/04/sec-ends-investigation-into-better-com-which-is-bleeding-cash-ahead-of-planned-spac-vote/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/vishal-garg-better-com.jpg?resize=1200,675",
+        "publishedAt": "2023-08-04T20:16:26Z",
+        "content": "The U.S. Securities and Exchange Commission (SEC) said it does not intend to recommend an enforcement action against digital mortgage lender Better.com. The pronouncement comes after an investigation… [+3228 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Lauren Simonds",
+        "title": "Berkeley Yeast, S2G dish on the future of beer, meat and more at TC Disrupt 2023 | TechCrunch",
+        "description": "Can agtechs create the foods we love (Beer! Meat!) without killing the planet? Find out on the Sustainability Stage at TechCrunch Disrupt 2023.",
+        "url": "https://techcrunch.com/2023/08/04/berkeley-yeast-s2g-dish-on-the-future-of-beer-meat-and-more-at-tc-disrupt-2023/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/tc_disrupt_2023_speaker-carousel_1920x1080_Denby_Walker.png?resize=1200,675",
+        "publishedAt": "2023-08-04T19:51:11Z",
+        "content": "In case you missed it, July 2023 was the hottest month ever recorded on Earth. On the bright-ish side, research shows that 69% of Americans want our nation to become carbon neutral by 2050. Achieving… [+4097 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Lorenzo Franceschi-Bicchierai",
+        "title": "Meet Window Snyder, the trailblazer who helped secure the internet and billions of devices | TechCrunch",
+        "description": "Meet Window Snyder, a veteran hacker and cybersecurity pro who has helped companies like Microsoft, Mozilla, and Apple be more secure.",
+        "url": "https://techcrunch.com/2023/08/04/window-snyder-cybersecurity-trailblazer/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/window-snyder-1.jpg?resize=1200,801",
+        "publishedAt": "2023-08-04T15:22:06Z",
+        "content": "After the band played Miles Davis Seven Steps to Heaven, and an effusive introduction from the head of the school, Window Snyder stands in front of a hall filled with around 800 students at her old h… [+26432 chars]"
+      }
+    ]
+  }
